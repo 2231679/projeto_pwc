@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #4d547b;
+  }
+  
+  .custom_color{
+    color: rgb(0, 157, 255);
+  }
+  
+  .color_footer{
+    background-color: azure;
+  }
+  
+  section {
+    margin-bottom: 30px;
+    text-align: center; /* Centraliza o conteúdo dentro da seção */
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    max-height: 150px; 
+    margin: 0 auto; 
+    display: block; 
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
